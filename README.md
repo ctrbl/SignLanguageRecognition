@@ -1,1 +1,1 @@
-# ASL_DLproject
+# Deep Learning project for Sign Language Recognition
